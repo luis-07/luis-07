@@ -1,2 +1,2 @@
-![Metrics](https://metrics.lecoq.io/luis-07?template=classic&base.community=0&base.repositories=0&base.metadata=0&lines=1&introduction=1&languages=1&isocalendar=1&people=1&introduction.title=true&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Europe%2FBerlin)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luis-07&show_icons=true&theme=radical)
